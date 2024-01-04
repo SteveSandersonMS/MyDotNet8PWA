@@ -1,0 +1,1 @@
+Unfortunately you must have a wwwroot directory even if no content is required
